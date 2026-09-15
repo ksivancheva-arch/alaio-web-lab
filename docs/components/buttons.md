@@ -63,7 +63,7 @@
 - `accent/yellow` (`#FFD972`), `text/primary` (`#251E49`).
 - Радиус: ступень «Кнопка CTA» — [Радиусы и обводки](../foundations/radii-strokes.md).
 - Отступ до кнопки/группы кнопок — [Сетка, контейнеры и отступы](../foundations/layout-grid.md).
-- Используется в блоках: [Слайдер с верхним меню](../blocks/top-menu-slider.md), [Блок с чипами](../blocks/chips-block.md), [Партнёры](../blocks/partners.md), [Хедер](../blocks/header.md).
+- Используется в блоках: [Слайдер с верхним меню](../blocks/top-menu-slider.md), [Блок с чипами](../blocks/chips-block.md), [Партнёры](../blocks/partners.md), [Хедер](../blocks/header.md), [AI-секция](../blocks/ai-section.md) (Secondary).
 
 ## 11. Проверка
 
