@@ -10,8 +10,8 @@
 
 Два варианта:
 
-- **Primary CTA** (`Buttons / Primary / CTA`) — инстанс из [«Слайдера с верхним меню»](../blocks/top-menu-slider.md) (alaio-sites, node 190:41107), [«Блока с чипами»](../blocks/chips-block.md) (Untitled, node 0:1) и [«Хедера»](../blocks/header-figma.md) (Untitled, node 28:36775, инстанс 28:36810). Хедерный инстанс из Figma подтверждает, что это один и тот же переиспользуемый компонент, а не отдельная реализация (до разбора [Хедера из Figma](../blocks/header-figma.md) это было неясно, кодовая реализация не называла инстанс) — размер и паддинг варьируются по инстансу вместе с длиной текста (см. раздел 4).
-- **Secondary** (`Buttons / Secondary / Learn more`) — инстанс из блока [«Партнёры»](../blocks/partners.md) (Untitled, node 32:1520).
+- **Primary CTA** (`Buttons / Primary / CTA`) — инстанс из [«Слайдера с верхним меню»](../blocks/top-menu-slider.md) (alaio-sites, node 190:41107), [«Блока с чипами»](../blocks/chips-block.md) (Untitled, node 0:1) и [«Headerа»](../blocks/header-figma.md) (Untitled, node 28:36775, инстанс 28:36810). Headerный инстанс из Figma подтверждает, что это один и тот же переиспользуемый компонент, а не отдельная реализация (до разбора [Headerа из Figma](../blocks/header-figma.md) это было неясно, кодовая реализация не называла инстанс) — размер и паддинг варьируются по инстансу вместе с длиной текста (см. раздел 4).
+- **Secondary** (`Buttons / Secondary / Learn more`) — инстанс из блока [«Partners»](../blocks/partners.md) (Untitled, node 32:1520).
 
 ## 3. Структура
 
@@ -31,7 +31,7 @@
 
 - Общий стиль **Button** (см. [Типографика](../foundations/typography.md)): Google Sans Flex Semibold 600, 18 px, line-height **140%**.
 - **Primary CTA** (инстанс в хедере): Google Sans Flex Semibold 18 px — совпадает с общим стилем Button; line-height в этом узле отдельно не измерен.
-- **Secondary** (блок «Партнёры»): Google Sans Flex Semibold 600, 18 px — но с line-height **120%**, зафиксированным отдельным решением при описании блока. ⚠ Это расходится с line-height 140% из общего стиля Button — см. [открытые вопросы](../design-system-open-questions.md).
+- **Secondary** (блок «Partners»): Google Sans Flex Semibold 600, 18 px — но с line-height **120%**, зафиксированным отдельным решением при описании блока. ⚠ Это расходится с line-height 140% из общего стиля Button — см. [открытые вопросы](../design-system-open-questions.md).
 
 ## 6. Цвета и варианты
 
@@ -42,7 +42,7 @@
 
 ## 7. Состояния и поведение
 
-- Primary CTA в хедере (по кодовой реализации, [Хедер (код)](../blocks/header.md)): hover — заливка меняется на `#FFC800`. Figma-источник статичен и это состояние не показывает.
+- Primary CTA в хедере (по кодовой реализации, [Header (код)](../blocks/header.md)): hover — заливка меняется на `#FFC800`. Figma-источник статичен и это состояние не показывает.
 - Для остальных инстансов Primary CTA и для Secondary состояние hover источником не задано.
 
 ## 8. Адаптивность
@@ -51,7 +51,7 @@
 
 ## 9. Правила контента
 
-- Текст лейбла — по смыслу конкретного блока («Find a Bitrix24 Partner» в блоке «Партнёры» — пример, а не фиксированная надпись).
+- Текст лейбла — по смыслу конкретного блока («Find a Bitrix24 Partner» в блоке «Partners» — пример, а не фиксированная надпись).
 - Если кнопок две — размещать в отдельном горизонтальном Auto Layout с gap 10 px (см. [Сетка, контейнеры и отступы](../foundations/layout-grid.md)).
 
 ## 10. Связанные компоненты и токены
@@ -59,7 +59,7 @@
 - `accent/yellow` (`#FFD972`), `text/primary` (`#251E49`).
 - Радиус: ступень «Кнопка CTA» — [Радиусы и обводки](../foundations/radii-strokes.md).
 - Отступ до кнопки/группы кнопок — [Сетка, контейнеры и отступы](../foundations/layout-grid.md).
-- Используется в блоках: [Слайдер с верхним меню](../blocks/top-menu-slider.md), [Блок с чипами](../blocks/chips-block.md), [Партнёры](../blocks/partners.md), [Хедер](../blocks/header.md) / [Хедер (Figma)](../blocks/header-figma.md), [Слайдер с буллетами](../blocks/bullet-slider.md) (Secondary).
+- Используется в блоках: [Top Menu Slider](../blocks/top-menu-slider.md), [Chips Block](../blocks/chips-block.md), [Partners](../blocks/partners.md), [Header](../blocks/header.md) / [Header (Figma)](../blocks/header-figma.md), [Bullet Slider](../blocks/bullet-slider.md) (Secondary).
 
 ## 11. Проверка
 

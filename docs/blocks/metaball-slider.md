@@ -1,6 +1,6 @@
 [← Каталог](../design-system.md) · [Основы](../foundations/README.md) · [Компоненты](../components/README.md) · [Блоки](README.md) · [Открытые вопросы](../design-system-open-questions.md)
 
-# Слайдер с боковым меню — Metaball
+# Metaball Sidebar Slider
 
 ## 1. Назначение
 

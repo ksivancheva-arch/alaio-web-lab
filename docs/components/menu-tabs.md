@@ -8,8 +8,8 @@
 
 ## 2. Источник и статус спецификации
 
-- Верхнее меню — [alaio-sites, node 190:41107](https://www.figma.com/design/mI7upMBDx8OpZ35XX4Pld9/alaio-sites?node-id=190-41107), блок [Слайдер с верхним меню](../blocks/top-menu-slider.md).
-- Боковое меню — [Untitled, «слайдер с боковым меню стиль метабол»](https://www.figma.com/design/Pp7s5FLAhwHha17DKRC9ZE/Untitled?node-id=0-1), блок [Слайдер с боковым меню — Metaball](../blocks/metaball-slider.md).
+- Верхнее меню — [alaio-sites, node 190:41107](https://www.figma.com/design/mI7upMBDx8OpZ35XX4Pld9/alaio-sites?node-id=190-41107), блок [Top Menu Slider](../blocks/top-menu-slider.md).
+- Боковое меню — [Untitled, «слайдер с боковым меню стиль метабол»](https://www.figma.com/design/Pp7s5FLAhwHha17DKRC9ZE/Untitled?node-id=0-1), блок [Metaball Sidebar Slider](../blocks/metaball-slider.md).
 
 Статус: полная спецификация для обоих вариантов в контексте своего блока.
 
@@ -81,7 +81,7 @@
 ## 7. Состояния и поведение
 
 - Активное/неактивное состояние определяется выбором пользователя; визуально — по таблицам цвета/начертания выше.
-- Полная механика переключения (что двигается, что статично, привязка контента к выбранному пункту, а не к позиции) — часть композиции блока, см. [Слайдер с боковым меню — Metaball](../blocks/metaball-slider.md#7-состояния-и-поведение).
+- Полная механика переключения (что двигается, что статично, привязка контента к выбранному пункту, а не к позиции) — часть композиции блока, см. [Metaball Sidebar Slider](../blocks/metaball-slider.md#7-состояния-и-поведение).
 
 ## 8. Адаптивность
 
@@ -97,7 +97,7 @@
 - `bg/lavender`, `accent/brand`, `text/primary`.
 - Радиус 8 px — ступень «иконка + подпись» из [Радиусов и обводок](../foundations/radii-strokes.md).
 - Глиф 24×24 — [Иконки](../foundations/icons.md).
-- Используется в: [Слайдер с верхним меню](../blocks/top-menu-slider.md), [Слайдер с боковым меню — Metaball](../blocks/metaball-slider.md), [Слайдер с буллетами](../blocks/bullet-slider.md) (вариант «верхнее меню», лавандовый фон — без изменений).
+- Используется в: [Top Menu Slider](../blocks/top-menu-slider.md), [Metaball Sidebar Slider](../blocks/metaball-slider.md), [Bullet Slider](../blocks/bullet-slider.md) (вариант «верхнее меню», лавандовый фон — без изменений).
 
 ## 11. Проверка
 

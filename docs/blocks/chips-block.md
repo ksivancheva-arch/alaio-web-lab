@@ -1,6 +1,6 @@
 [← Каталог](../design-system.md) · [Основы](../foundations/README.md) · [Компоненты](../components/README.md) · [Блоки](README.md) · [Открытые вопросы](../design-system-open-questions.md)
 
-# Блок с чипами
+# Chips Block
 
 Пример в источнике называется **«Control who can access your workspace»** — это название конкретного примера, а не формальное имя блока.
 
