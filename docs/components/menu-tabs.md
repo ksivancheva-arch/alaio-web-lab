@@ -97,7 +97,7 @@
 - `bg/lavender`, `accent/brand`, `text/primary`.
 - Радиус 8 px — ступень «иконка + подпись» из [Радиусов и обводок](../foundations/radii-strokes.md).
 - Глиф 24×24 — [Иконки](../foundations/icons.md).
-- Используется в: [Слайдер с верхним меню](../blocks/top-menu-slider.md), [Слайдер с боковым меню — Metaball](../blocks/metaball-slider.md), [AI-секция](../blocks/ai-section.md) (вариант «верхнее меню», лавандовый фон — без изменений).
+- Используется в: [Слайдер с верхним меню](../blocks/top-menu-slider.md), [Слайдер с боковым меню — Metaball](../blocks/metaball-slider.md), [Слайдер с буллетами](../blocks/bullet-slider.md) (вариант «верхнее меню», лавандовый фон — без изменений).
 
 ## 11. Проверка
 

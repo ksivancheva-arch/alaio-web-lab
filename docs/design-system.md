@@ -21,7 +21,7 @@
 | [Партнёры](blocks/partners.md) | Изображение слева, заголовок/текст/Secondary CTA справа | Полная спецификация |
 | [FAQ](blocks/faq.md) | Заголовок + список раскрывающихся вопросов | Полная спецификация |
 | [Protection at every layer](blocks/protection-layers.md) | Упомянут фрагментарно (иконки шести карточек-слоёв) | Неполная спецификация |
-| [AI-секция](blocks/ai-section.md) | Слайдер «AI security in Bitrix24» с вкладками CoPilot/MCP/Vibecode | Полная спецификация (2 из 3 вкладок) |
+| [Слайдер с буллетами](blocks/bullet-slider.md) | Вкладки сверху + точки пагинации снизу; пример — «AI security in Bitrix24» (CoPilot/MCP/Vibecode) | Полная спецификация (все 3 вкладки примера) |
 
 ## Каталог компонентов
 
