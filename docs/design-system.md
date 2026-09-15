@@ -193,7 +193,7 @@ HEX приведены в 8-битном представлении; для то
 Схема вложенности:
 
 ```text
-Page stack — Vertical, gap 90
+Page stack — Vertical, gap 110
 ├── Section — Vertical, gap 40
 │   ├── Heading group — Vertical, gap 10
 │   │   ├── Заголовок
