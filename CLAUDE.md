@@ -28,3 +28,7 @@
 3. Добавить ссылку на новый файл в оглавление соответствующего раздела (`docs/foundations/README.md`, `docs/components/README.md` или `docs/blocks/README.md`) и в каталог на `docs/design-system.md`.
 4. Работа с токенами и статусом значений (что считать согласованным правилом, когда писать «Не задано») — по соглашению из [docs/foundations/sources-tokens.md](docs/foundations/sources-tokens.md), не дублировать его здесь.
 5. Если обнаружено противоречие с уже задокументированным правилом — не выбирать значение молча, фиксировать оба источника в [docs/design-system-open-questions.md](docs/design-system-open-questions.md).
+
+## Названия блоков
+
+Названия блоков в каталоге, заголовках спецификаций и Figma — на английском. Использовать одинаковое название из каталога `docs/blocks/README.md`. Вариант или состояние в имени Figma указывать после `/`, также на английском (например, `Top Menu Slider / Light Gray`, `Metaball Sidebar Slider / Active Item 2`). Тексты правил могут оставаться на русском.
