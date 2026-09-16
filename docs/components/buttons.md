@@ -59,7 +59,7 @@
 - `accent/yellow` (`#FFD972`), `text/primary` (`#251E49`).
 - Радиус: ступень «Кнопка CTA» — [Радиусы и обводки](../foundations/radii-strokes.md).
 - Отступ до кнопки/группы кнопок — [Сетка, контейнеры и отступы](../foundations/layout-grid.md).
-- Используется в блоках: [Top Menu Slider](../blocks/top-menu-slider.md), [Chips Block](../blocks/chips-block.md), [Partners](../blocks/partners.md), [Header](../blocks/header.md) / [Header (Figma)](../blocks/header-figma.md), [Bullet Slider](../blocks/bullet-slider.md) (Secondary).
+- Используется в блоках: [Top Menu Slider](../blocks/top-menu-slider.md), [Chips Block](../blocks/chips-block.md), [Card Frame Scroll](../blocks/card-frame-scroll.md), [Partners](../blocks/partners.md), [Header](../blocks/header.md) / [Header (Figma)](../blocks/header-figma.md), [Bullet Slider](../blocks/bullet-slider.md) (Secondary).
 
 ## 11. Проверка
 

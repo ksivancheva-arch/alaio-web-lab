@@ -34,6 +34,8 @@ Gap между заголовком и подзаголовком — **10 px**,
 | [Metaball Sidebar Slider](../blocks/metaball-slider.md) | H2, без Accent, белый (Medium 500, 44 px) | Нет — только заголовок, единственный такой случай | — |
 | [Partners](../blocks/partners.md) | H2, без Accent (Medium 500, 44 px) | Body Regular | 40 px до кнопки |
 | [Bullet Slider](../blocks/bullet-slider.md) | H1, без Accent (Medium 500, 54 px) | Medium 500, `opacity: .8` — отклонение от стандарта, см. раздел 5 | 40 px до ряда вкладок |
+| [Card Frame](../blocks/card-frame.md) | H2, без Accent (Medium 500, 44 px), белый, по центру | Body Regular, 90% непрозрачности, по центру | 40 px до ряда карточек |
+| [Card Frame Scroll](../blocks/card-frame-scroll.md) | H2, без Accent (Medium 500, 44 px), слева | Body Regular, 90% непрозрачности | 40 px до заголовочной строки в целом (заголовок+стрелки) |
 | [FAQ](../blocks/faq.md) | Отдельный случай: заголовок без подзаголовка, выровнен по центру — не образует пару «заголовок+подзаголовок», см. страницу блока | — | — |
 
 ## 6. Цвета и варианты
