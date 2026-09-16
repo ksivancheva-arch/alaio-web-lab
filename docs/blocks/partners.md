@@ -27,8 +27,8 @@
 
 ## 5. Типографика
 
-- Заголовок — **H2** (Google Sans Flex Medium 500, 40 px, 120%), без Accent-начертания; цвет `#251E49` (`text/primary`). Текст примера: «Get your Bitrix24 set up by local professionals».
-- Подзаголовок — **Body Regular** (Inter Regular, 18 px, 140%), цвет тот же `text/primary`. Текст примера: «Find a local Bitrix24 Partner and schedule a personal product demo.»
+- Заголовок — **H2** (Google Sans Flex Medium 500, 44 px, 120%), без Accent-начертания; цвет `#251E49` (`text/primary`). Текст примера: «Get your Bitrix24 set up by local professionals».
+- Подзаголовок — **Body Regular** (Inter Regular, 18 px, 140%, непрозрачность 90% — см. [Типографика](../foundations/typography.md)), цвет тот же `text/primary`. Текст примера: «Find a local Bitrix24 Partner and schedule a personal product demo.»
 - Кнопка (Secondary) — Google Sans Flex Semibold 600, 18 px, 120% — см. [Кнопки](../components/buttons.md).
 
 ## 6. Цвета и варианты
@@ -67,5 +67,5 @@
 - Контейнер: gap 60 между колонками, `align-items: center`.
 - Изображение: 556×332.
 - Текстовая колонка: 570 px, gap 10 заголовок↔подзаголовок, gap 40 до кнопки.
-- Заголовок H2 Medium 40/120%, подзаголовок Body Regular 18/140%.
+- Заголовок H2 Medium 44/120%, подзаголовок Body Regular 18/140%, 90% непрозрачности.
 - Кнопка Secondary: 286×54, радиус 12, обводка 2 px `#251E49`, текст Google Sans Flex Semibold 18/120%.

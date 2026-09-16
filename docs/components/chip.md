@@ -21,7 +21,7 @@
 
 ## 5. Типографика
 
-Текст — **Body Semibold** (Inter Semi Bold, 18 px) — см. [Типографика](../foundations/typography.md).
+Текст — **Body Semibold** (Inter Semi Bold, 18 px), непрозрачность 90% — см. [Типографика](../foundations/typography.md).
 
 ## 6. Цвета и варианты
 
@@ -60,5 +60,5 @@
 
 - Радиус 8, паддинг 6/12/6/6, gap 10.
 - Иконка 26×26, `Circle Check`, галочка `#F5F5F5`.
-- Текст Body Semibold, всегда `#251E49`.
+- Текст Body Semibold, непрозрачность 90%, всегда `#251E49`.
 - Фон плашки и цвет круга — по таблице цветовых вариантов.

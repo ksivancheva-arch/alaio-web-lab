@@ -29,11 +29,11 @@ Gap между заголовком и подзаголовком — **10 px**,
 
 | Блок | Заголовок | Подзаголовок | Доп. gap до следующего элемента |
 |---|---|---|---|
-| [Слайдер с верхним меню](../blocks/top-menu-slider.md) | H1 Accent (Google Sans Flex SemiBold 50 px) | Body Regular | 40 px до вкладок |
-| [Блок с чипами](../blocks/chips-block.md) | H1, без Accent (Medium 500, 50 px) | Body Regular | 40 px до ряда чипов |
-| [Слайдер с боковым меню — Metaball](../blocks/metaball-slider.md) | H2, без Accent, белый | Нет — только заголовок, единственный такой случай | — |
-| [Партнёры](../blocks/partners.md) | H2, без Accent (Medium 500, 40 px) | Body Regular | 40 px до кнопки |
-| [Слайдер с буллетами](../blocks/bullet-slider.md) | H1, без Accent (Medium 500, 50 px) | Medium 500, `opacity: .8` — отклонение от стандарта, см. раздел 5 | 40 px до ряда вкладок |
+| [Слайдер с верхним меню](../blocks/top-menu-slider.md) | H1 Accent (Google Sans Flex SemiBold 54 px) | Body Regular | 40 px до вкладок |
+| [Блок с чипами](../blocks/chips-block.md) | H1, без Accent (Medium 500, 54 px) | Body Regular | 40 px до ряда чипов |
+| [Слайдер с боковым меню — Metaball](../blocks/metaball-slider.md) | H2, без Accent, белый (Medium 500, 44 px) | Нет — только заголовок, единственный такой случай | — |
+| [Партнёры](../blocks/partners.md) | H2, без Accent (Medium 500, 44 px) | Body Regular | 40 px до кнопки |
+| [Слайдер с буллетами](../blocks/bullet-slider.md) | H1, без Accent (Medium 500, 54 px) | Medium 500, `opacity: .8` — отклонение от стандарта, см. раздел 5 | 40 px до ряда вкладок |
 | [FAQ](../blocks/faq.md) | Отдельный случай: заголовок без подзаголовка, выровнен по центру — не образует пару «заголовок+подзаголовок», см. страницу блока | — | — |
 
 ## 6. Цвета и варианты

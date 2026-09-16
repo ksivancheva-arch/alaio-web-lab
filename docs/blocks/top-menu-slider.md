@@ -24,7 +24,7 @@
 
 ## 5. Типографика
 
-Заголовок — **H1 Accent** (Google Sans Flex SemiBold 50 px), подзаголовок — **Body Regular**. См. [Заголовочная группа](../components/heading-group.md).
+Заголовок — **H1 Accent** (Google Sans Flex SemiBold 54 px), подзаголовок — **Body Regular**. См. [Заголовочная группа](../components/heading-group.md).
 
 ## 6. Цвета и варианты
 
