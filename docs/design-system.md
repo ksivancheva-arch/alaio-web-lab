@@ -25,6 +25,7 @@
 | [Card Frame Scroll](blocks/card-frame-scroll.md) | Заголовок + прокручиваемый ряд из 6 карточек-преимуществ + точки пагинации + CTA; пример — «Protection at every layer» | Полная спецификация |
 | [Footer](blocks/footer.md) | Аккордеон разделов, соцсети, поиск, ссылки на приложения, юридические ссылки | Полная спецификация (только мобильная версия) |
 | [Bullet Slider](blocks/bullet-slider.md) | Вкладки сверху + точки пагинации снизу; пример — «AI security in Bitrix24» (CoPilot/MCP/Vibecode) | Полная спецификация (все 3 вкладки примера) |
+| [Customer Stories Slider](blocks/customer-stories-slider.md) | Заголовок + бейджи наград + ряд карточек-кейсов + стрелка прокрутки + CTA | Полная спецификация (одно состояние) |
 
 ## Каталог компонентов
 
