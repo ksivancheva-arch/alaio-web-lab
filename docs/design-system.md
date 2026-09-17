@@ -21,7 +21,7 @@
 | [Metaball Sidebar Slider](blocks/metaball-slider.md) | Тёмный блок, боковое меню, две панели, соединяющие формы | Полная спецификация |
 | [Partners](blocks/partners.md) | Изображение слева, заголовок/текст/Secondary CTA справа | Полная спецификация |
 | [FAQ](blocks/faq.md) | Заголовок + список раскрывающихся вопросов | Полная спецификация |
-| [Card Frame](blocks/card-frame.md) | Тёмная карточка: заголовок + иллюстрация + 3 карточки-преимущества (вариант «по центру»); пример — «AI security is a shared responsibility» | Полная спецификация |
+| [Card Frame](blocks/card-frame.md) | Заголовок + иллюстрация + 3 карточки-преимущества (вариант «по центру»); 3 цветовых варианта (тёмный, светлый с картинкой, светлый с обводкой); пример — «AI security is a shared responsibility» | Полная спецификация |
 | [Card Frame Scroll](blocks/card-frame-scroll.md) | Заголовок + прокручиваемый ряд из 6 карточек-преимуществ + точки пагинации + CTA; пример — «Protection at every layer» | Полная спецификация |
 | [Footer](blocks/footer.md) | Аккордеон разделов, соцсети, поиск, ссылки на приложения, юридические ссылки | Полная спецификация (только мобильная версия) |
 | [Bullet Slider](blocks/bullet-slider.md) | Вкладки сверху + точки пагинации снизу; пример — «AI security in Bitrix24» (CoPilot/MCP/Vibecode) | Полная спецификация (все 3 вкладки примера) |
