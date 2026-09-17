@@ -39,9 +39,9 @@
 ## 5. Типографика
 
 - Заголовок — **H2** (Google Sans Flex Medium 500, 44 px, 120%), цвет `text/primary`.
-- Текст под заголовком — **Body Regular** (Inter Regular, 18 px, 140%), непрозрачность 90% (см. [Типографика](../foundations/typography.md)), цвет `text/primary`.
+- Текст под заголовком — **Body Regular** (Inter Regular, 18 px, 140%), непрозрачность 100% (см. [Типографика](../foundations/typography.md)), цвет `text/primary`.
 - Заголовок карточки — **Body Semibold** (Inter Semi Bold, 18 px), цвет `text/primary`.
-- Текст карточки — **Body Small** (Inter Regular, 16 px), непрозрачность 90%, цвет `text/primary`.
+- Текст карточки — **Body Small** (Inter Regular, 16 px), непрозрачность 100%, цвет `text/primary`.
 - CTA — Google Sans Flex Semibold 18 px (стиль **Button**, см. [Типографика](../foundations/typography.md)).
 
 ## 6. Цвета и варианты
